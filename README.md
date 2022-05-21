@@ -1,4 +1,4 @@
-# Persian (Farsi) Handwritten Data Set
+# Persian (Farsi) Handwritten Dataset
 
 Handwriting dataset for Persian (farsi) language, the official language for Iranian people.
 
